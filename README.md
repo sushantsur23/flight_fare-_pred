@@ -7,7 +7,6 @@
   * [Approach](#approach)
   * [Docker_Hub_link](#docker hub link)
   * [Deployement on EC2](#deployement on EC2)
-  * [HLD, LLD, WireFrame](#hld, lld, wireframe)
   * [Bug / Feature Request](#bug---feature-request)
 
 
@@ -48,9 +47,6 @@ https://hub.docker.com/repository/docker/p838683132/money_api
 
 click on the below to access the web app. To be updated
 
-## HLD, LLD, Wireframe
-
-HLD, LLD and Wireframe is attached in github repo for reference.
 
 ## Bug / Feature Request
 
