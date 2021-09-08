@@ -19,12 +19,12 @@ Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-
 This is a Flask web app which predicts fare of Flight as per the parameters asked from the user. The main objective is to predict the flight fares as per the base data given to us which will help user to book tickets at with the lowest price and save money. Here there are various factors which determines the flight price like destination, seasonality, number of stops etc.  
 
 ## Tools
-Python
-Amazon EC2
-Cassandra
-Flask
-Html
-CSS
+Python,
+Amazon EC2,
+Cassandra,
+Flask,
+Html,
+CSS,
 Docker
 
 ## Approach
