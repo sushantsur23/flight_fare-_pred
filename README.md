@@ -11,7 +11,7 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)  to be updated
+Link: [http://3.109.217.238:8000/](https://flight-price-prediction-api.herokuapp.com/) 
 
 ![image](https://user-images.githubusercontent.com/77981264/131228744-19afce5a-9012-47ce-8707-8bed61a42d7b.png)
 
@@ -45,7 +45,7 @@ https://hub.docker.com/repository/docker/p838683132/money_api
 
 ## Deployement on EC2
 
-click on the below to access the web app. To be updated
+click on the below to access the web app. http://3.109.217.238:8000/
 
 
 ## Bug / Feature Request
