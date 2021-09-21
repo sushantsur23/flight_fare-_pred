@@ -11,7 +11,7 @@
 
 
 ## Demo
-Link: [http://3.109.217.238:8000/](https://flight-price-prediction-api.herokuapp.com/) 
+Link: [http://3.109.217.238:8000/](https://flight-price-prediction-api.herokuapp.com/) This is active for limited period as it was deployed using EC2 instance free tier hours.
 
 ![image](https://user-images.githubusercontent.com/77981264/131228744-19afce5a-9012-47ce-8707-8bed61a42d7b.png)
 
